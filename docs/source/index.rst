@@ -1,6 +1,6 @@
 
 
-National Library of New Zealand Tools SIP Generation Fairfax Documentation
+National Library of New Zealand Tools SIP Generation for Newspapers Documentation
 ==========================================================================
 
 .. toctree::
